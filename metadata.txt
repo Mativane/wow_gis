@@ -12,8 +12,8 @@ email=osko1996@gmail.com
 
 about=Import raster and vector data converting all continents of Azeroth and start analyzing and visualizing virtual world from game "World of Warcraft" today!
 
-tracker=https://github.com/Mativane/WoW-GIS/issues
-repository=https://github.com/Mativane/WoW-GIS
+tracker=https://github.com/Mativane/wow_gis/issues
+repository=https://github.com/Mativane/wow_gis
 # End of mandatory metadata
 
 # Recommended items:
