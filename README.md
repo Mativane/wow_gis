@@ -1,2 +1,2 @@
-# WoW-GIS
+# wowGIS
 QGIS Plugin importing spatial data from World of Warcraft game
