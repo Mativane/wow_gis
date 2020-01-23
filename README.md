@@ -23,5 +23,5 @@ It was choosen because its simplicity.
 - Georeferenced world map of Azeroth
 - Georeferenced maps of every continent.
 
+## Contact
 If you have any question, issue or just want to help by making few more layers by yourself, by all means you are welcome to do so. Just contact me here on github :) 
-- Mativane
