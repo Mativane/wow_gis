@@ -5,12 +5,12 @@
 [general]
 name=WoW GIS
 qgisMinimumVersion=3.0
-description=Import Azorth to your QGIS! 
+description=Import Azeroth to your QGIS! 
 version=0.1
 author=Mateusz Ośko 
 email=osko1996@gmail.com
 
-about=Import raster and vector data converting all continents of Azeroth and start analyzing and visualizing virtual world from game "World of Warcraft" today!
+about=Import raster and vector data of Azeroth and start analyzing and visualizing virtual world from game "World of Warcraft" today!
 
 tracker=https://github.com/Mativane/wow_gis/issues
 repository=https://github.com/Mativane/wow_gis
