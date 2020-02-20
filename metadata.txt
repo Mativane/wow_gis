@@ -6,7 +6,7 @@
 name=WoW GIS
 qgisMinimumVersion=3.0
 description=Import Azeroth to your QGIS! 
-version=0.1
+version=0.1.1
 author=Mateusz Ośko 
 email=osko1996@gmail.com
 
@@ -29,7 +29,7 @@ homepage=https://github.com/Mativane/WoW-GIS
 category=Plugins
 icon=icon.png
 # experimental flag
-experimental=True
+experimental=False
 
 # deprecated flag (applies to the whole plugin, not just a single version)
 deprecated=False
