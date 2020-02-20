@@ -1,4 +1,4 @@
-# wow gis - version 0.1
+# wow gis - version 0.1.1
 **QGIS Plugin** importing spatial data from **World of Warcraft** game to your computer!
 
 Plugin can import both raster and vector data by running WFS and WMS requests to geoserver. 
