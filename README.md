@@ -1,5 +1,9 @@
 # wow gis - version 0.1.1
 **QGIS Plugin** importing spatial data from **World of Warcraft** game to your computer!
+<!-- badges: start -->
+[![Lifecycle:
+maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle)
+<!-- badges: end -->
 
 Plugin can import both raster and vector data by running WFS and WMS requests to geoserver. 
 Currently it's fairy simple and can be considered as proof of concept, but in the future can be easly developed by adding more importable layers, like rivers, dungeon locations, mountain ranges etc. 
