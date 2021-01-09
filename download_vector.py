@@ -6,7 +6,7 @@ from qgis.PyQt.QtCore import QSettings
 
 def load_from_wfs(layername):
     layername = layername.lower().replace(" ","_")
-    uri = "http://18.224.109.62:8080/geoserver/wfs?srsname=EPSG:32662&typename=wowgis:v_" + layername + "&version=1.1.0&request=GetFeature&service=WFS"
+    uri = "http://18.223.98.214:8080/geoserver/wfs?srsname=EPSG:32662&typename=fantasygis_wow:v_" + layername + "&version=1.1.0&request=GetFeature&service=WFS"
     vlayer = QgsVectorLayer(uri, layername, "WFS")
     if vlayer.isValid():
         QgsProject.instance().addMapLayer(vlayer)

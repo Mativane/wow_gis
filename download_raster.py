@@ -6,7 +6,7 @@ from qgis.PyQt.QtCore import QSettings
 
 def load_from_wms(layername):
     layername = layername.lower().replace(" ","_")
-    uri = "url=http://18.224.109.62:8080/geoserver/wms?request=GetMap&service=WMS&version=1.1.1&layers=wowgis:r_" + layername + "&styles=&crs=EPSG:32662&format=image/geotiff"
+    uri = "url=http://18.223.98.214:8080/geoserver/wms?request=GetMap&service=WMS&version=1.1.1&layers=fantasygis_wow:r_" + layername + "&styles=&crs=EPSG:32662&format=image/geotiff"
     rlayer = QgsRasterLayer(uri, layername, "wms")
     if rlayer.isValid():
         QgsProject.instance().addMapLayer(rlayer)
