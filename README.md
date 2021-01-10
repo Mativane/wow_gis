@@ -1,4 +1,4 @@
-# wow gis - version 0.1.1
+# wow gis - version 0.1.2
 **QGIS Plugin** importing spatial data from **World of Warcraft** game to your computer!
 <!-- badges: start -->
 [![Lifecycle:
